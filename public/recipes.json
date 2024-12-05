@@ -1,0 +1,92 @@
+[
+  {
+      "recipe_id": 1,
+      "recipe_name": "Grilled Chicken Basil",
+      "recipe_image": "https://www.foodandwine.com/thmb/AITOI2byBUDcXHADQRPN8kgwhFs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Grilled-Chicken-Caprese-with-Basil-Oil-FT-RECIPE0823-22c0ea5fce514a1891f545428ef91fff.jpg",
+      "short_description": "A delightful grilled chicken dish with fresh basil and mushrooms.",
+      "ingredients": [
+        "550 g chicken",
+        "120 ml soy sauce",
+        "200 g basil leaf",
+        "400 g mushroom"
+      ],
+      "preparing_time": 30,
+      "calories": 320
+  },
+  {
+      "recipe_id": 2,
+      "recipe_name": "Classic Spaghetti Bolognese",
+      "recipe_image": "https://marleyspoon.com/media/recipes/303822/main_photos/large/craig_s_home_style_beef_bolognese-e8dcde20f8d9ab74f59bb235626f5ee9.jpeg",
+      "short_description": "A rich and hearty Italian classic with ground beef and tomato sauce.",
+      "ingredients": [
+        "500 g spaghetti",
+        "250 g ground beef",
+        "400 g tomato sauce",
+        "2 cloves garlic",
+        "50 g grated Parmesan"
+      ],
+      "preparing_time": 45,
+      "calories": 450
+  },
+  {
+      "recipe_id": 3,
+      "recipe_name": "Vegetarian Stir-Fry",
+      "recipe_image": "https://ohmyveggies.com/wp-content/uploads/2017/04/Teriyaki-Chickpea-Stir-Fry-1.jpg",
+      "short_description": "A quick and healthy mix of fresh vegetables stir-fried in soy sauce.",
+      "ingredients": [
+        "200 g broccoli",
+        "150 g bell peppers",
+        "100 g snow peas",
+        "50 g carrots",
+        "30 ml soy sauce"
+      ],
+      "preparing_time": 20,
+      "calories": 200
+  },
+  {
+      "recipe_id": 4,
+      "recipe_name": "Beef Tacos",
+      "recipe_image": "https://iamhomesteader.com/wp-content/uploads/2022/04/birria-taco-2.jpg",
+      "short_description": "Mexican-style tacos filled with seasoned beef and fresh toppings.",
+      "ingredients": [
+        "300 g ground beef",
+        "8 taco shells",
+        "100 g lettuce",
+        "100 g shredded cheese",
+        "50 g salsa"
+      ],
+      "preparing_time": 30,
+      "calories": 400
+  },
+  {
+      "recipe_id": 5,
+      "recipe_name": "Mango Smoothie Bowl",
+      "recipe_image": "https://downshiftology.com/wp-content/uploads/2015/06/mango-smoothie-bowl-1-1024x683-1.jpg",
+      "short_description": "A refreshing smoothie bowl with mango and assorted toppings.",
+      "ingredients": [
+        "300 g frozen mango",
+        "150 ml almond milk",
+        "50 g granola",
+        "30 g chia seeds",
+        "20 g shredded coconut"
+      ],
+      "preparing_time": 25,
+      "calories": 350
+  },
+  {
+      "recipe_id": 6,
+      "recipe_name": "Blueberry Oatmeal Pancakes",
+      "recipe_image": "https://www.laurafuentes.com/wp-content/uploads/2024/03/Blueberry-oat-pancakes_post_04.jpg",
+      "short_description": "Fluffy pancakes made with oats and loaded with fresh blueberries.",
+      "ingredients": [
+          "Oats",
+          "Eggs",
+          "Milk",
+          "Blueberries",
+          "Baking Powder",
+          "Honey"
+      ],
+      "preparing_time": 23,
+      "calories": 300
+  }
+]
